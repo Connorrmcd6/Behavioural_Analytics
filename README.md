@@ -1,0 +1,1 @@
+This repository contains all the assignments I completed for Behavioral Analytics during my masters studies. Each folder represents an assignment and the folder titled "Behavioral Analytics" is the exam. Each folder contains a Report.pdf file which explains the code.
